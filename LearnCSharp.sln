@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCallMethods", "CSharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatements", "IfStatements\IfStatements.csproj", "{87E61C74-5380-46D8-8F95-282D71458BC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysForeachStatement", "ArraysForeachStatement\ArraysForeachStatement.csproj", "{1A5C86BF-6182-46F6-AB2B-667404895362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{87E61C74-5380-46D8-8F95-282D71458BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87E61C74-5380-46D8-8F95-282D71458BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87E61C74-5380-46D8-8F95-282D71458BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5C86BF-6182-46F6-AB2B-667404895362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5C86BF-6182-46F6-AB2B-667404895362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5C86BF-6182-46F6-AB2B-667404895362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5C86BF-6182-46F6-AB2B-667404895362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
