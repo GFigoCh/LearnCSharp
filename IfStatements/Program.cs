@@ -13,7 +13,6 @@ class Program
         Random randomizer = new Random();
 
         int daysUntilExpiration = randomizer.Next(12);
-        int discountPercentage;
 
         Console.WriteLine("Days Remaining: " + daysUntilExpiration);
 
@@ -23,6 +22,8 @@ class Program
         }
         else if (daysUntilExpiration <= 5)
         {
+            int discountPercentage = 10;
+
             if (daysUntilExpiration == 1)
             {
                 Console.WriteLine("Your subscription expires within a day!");
@@ -31,7 +32,6 @@ class Program
             else
             {
                 Console.WriteLine($"Your subscription exipires in {daysUntilExpiration} days.");
-                discountPercentage = 10;
             }
 
             Console.WriteLine($"Renew now and save {discountPercentage}%!");
