@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableScope", "VariableSc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatements", "SwitchStatements\SwitchStatements.csproj", "{5269536E-DC37-4A85-908D-13193F786668}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForStatement", "ForStatement\ForStatement.csproj", "{A8B25FD4-DA04-4364-BF7C-8F1C078B07CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{5269536E-DC37-4A85-908D-13193F786668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5269536E-DC37-4A85-908D-13193F786668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5269536E-DC37-4A85-908D-13193F786668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B25FD4-DA04-4364-BF7C-8F1C078B07CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B25FD4-DA04-4364-BF7C-8F1C078B07CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B25FD4-DA04-4364-BF7C-8F1C078B07CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B25FD4-DA04-4364-BF7C-8F1C078B07CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
