@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateReadableCode", "Creat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessArrayData", "ProcessArrayData\ProcessArrayData.csproj", "{7CE94BFF-00F4-45EE-98B9-BB5D3ACC5DAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessArrayData_Challenge", "ProcessArrayData_Challenge\ProcessArrayData_Challenge.csproj", "{83F06502-328E-4D03-9BBB-47EEA693DC2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{7CE94BFF-00F4-45EE-98B9-BB5D3ACC5DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE94BFF-00F4-45EE-98B9-BB5D3ACC5DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE94BFF-00F4-45EE-98B9-BB5D3ACC5DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F06502-328E-4D03-9BBB-47EEA693DC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F06502-328E-4D03-9BBB-47EEA693DC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F06502-328E-4D03-9BBB-47EEA693DC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F06502-328E-4D03-9BBB-47EEA693DC2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
