@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForStatement", "ForStatemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileAndWhileStatements", "DoWhileAndWhileStatements\DoWhileAndWhileStatements.csproj", "{447E73F9-DDE6-49D1-A310-57271712F225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAndLooping", "BranchingAndLooping\BranchingAndLooping.csproj", "{7755408A-7C24-4126-9745-978110727E6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{447E73F9-DDE6-49D1-A310-57271712F225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{447E73F9-DDE6-49D1-A310-57271712F225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{447E73F9-DDE6-49D1-A310-57271712F225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7755408A-7C24-4126-9745-978110727E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7755408A-7C24-4126-9745-978110727E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7755408A-7C24-4126-9745-978110727E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7755408A-7C24-4126-9745-978110727E6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
