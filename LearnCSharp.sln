@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileAndWhileStatements",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAndLooping", "BranchingAndLooping\BranchingAndLooping.csproj", "{7755408A-7C24-4126-9745-978110727E6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAndLooping_Challenge", "BranchingAndLooping_Challenge\BranchingAndLooping_Challenge.csproj", "{620651EF-0FDC-49D2-A2B8-386A7DE6304D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{7755408A-7C24-4126-9745-978110727E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7755408A-7C24-4126-9745-978110727E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7755408A-7C24-4126-9745-978110727E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620651EF-0FDC-49D2-A2B8-386A7DE6304D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620651EF-0FDC-49D2-A2B8-386A7DE6304D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620651EF-0FDC-49D2-A2B8-386A7DE6304D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620651EF-0FDC-49D2-A2B8-386A7DE6304D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
