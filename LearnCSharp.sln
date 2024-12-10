@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAndLooping", "Bran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAndLooping_Challenge", "BranchingAndLooping_Challenge\BranchingAndLooping_Challenge.csproj", "{620651EF-0FDC-49D2-A2B8-386A7DE6304D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseCorrectDataType", "ChooseCorrectDataType\ChooseCorrectDataType.csproj", "{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{620651EF-0FDC-49D2-A2B8-386A7DE6304D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620651EF-0FDC-49D2-A2B8-386A7DE6304D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{620651EF-0FDC-49D2-A2B8-386A7DE6304D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
