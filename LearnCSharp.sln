@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAndLooping_Challen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseCorrectDataType", "ChooseCorrectDataType\ChooseCorrectDataType.csproj", "{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertDataTypes", "ConvertDataTypes\ConvertDataTypes.csproj", "{2FD92BE0-D75E-4FC1-BE70-615BE313A81C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C769F7D8-EBFE-4353-9C3B-E3F6FB1F244E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD92BE0-D75E-4FC1-BE70-615BE313A81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD92BE0-D75E-4FC1-BE70-615BE313A81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD92BE0-D75E-4FC1-BE70-615BE313A81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD92BE0-D75E-4FC1-BE70-615BE313A81C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
