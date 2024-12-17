@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatAlphanumericData", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDataTypeMethods", "StringDataTypeMethods\StringDataTypeMethods.csproj", "{235ECAE6-C148-4327-B254-5A8845BBAAE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithVariableData", "WorkWithVariableData\WorkWithVariableData.csproj", "{2032C952-1C49-430C-8790-2E1F7F548340}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{235ECAE6-C148-4327-B254-5A8845BBAAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{235ECAE6-C148-4327-B254-5A8845BBAAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{235ECAE6-C148-4327-B254-5A8845BBAAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2032C952-1C49-430C-8790-2E1F7F548340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2032C952-1C49-430C-8790-2E1F7F548340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2032C952-1C49-430C-8790-2E1F7F548340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2032C952-1C49-430C-8790-2E1F7F548340}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
