@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDataTypeMethods", "St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithVariableData", "WorkWithVariableData\WorkWithVariableData.csproj", "{2032C952-1C49-430C-8790-2E1F7F548340}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithVariableData_Challenge", "WorkWithVariableData_Challenge\WorkWithVariableData_Challenge.csproj", "{DFE980C6-6A9E-4207-9504-46D9475CDF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{2032C952-1C49-430C-8790-2E1F7F548340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2032C952-1C49-430C-8790-2E1F7F548340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2032C952-1C49-430C-8790-2E1F7F548340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE980C6-6A9E-4207-9504-46D9475CDF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE980C6-6A9E-4207-9504-46D9475CDF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE980C6-6A9E-4207-9504-46D9475CDF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE980C6-6A9E-4207-9504-46D9475CDF33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
