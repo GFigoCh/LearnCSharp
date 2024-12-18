@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithVariableData", "Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithVariableData_Challenge", "WorkWithVariableData_Challenge\WorkWithVariableData_Challenge.csproj", "{DFE980C6-6A9E-4207-9504-46D9475CDF33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{DE5B7517-7DBF-45F5-85E7-73BD808F04C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{DFE980C6-6A9E-4207-9504-46D9475CDF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFE980C6-6A9E-4207-9504-46D9475CDF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFE980C6-6A9E-4207-9504-46D9475CDF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5B7517-7DBF-45F5-85E7-73BD808F04C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5B7517-7DBF-45F5-85E7-73BD808F04C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5B7517-7DBF-45F5-85E7-73BD808F04C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5B7517-7DBF-45F5-85E7-73BD808F04C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
