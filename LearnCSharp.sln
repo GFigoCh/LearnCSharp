@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "Except
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAndThrowExceptions", "CreateAndThrowExceptions\CreateAndThrowExceptions.csproj", "{F4D98423-61AA-4CDC-B9AC-0979408C811B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugHandleExceptions", "DebugHandleExceptions\DebugHandleExceptions.csproj", "{3BB500C0-E4C6-45A6-900F-9D081347544C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +188,9 @@ Global
 		{F4D98423-61AA-4CDC-B9AC-0979408C811B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4D98423-61AA-4CDC-B9AC-0979408C811B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4D98423-61AA-4CDC-B9AC-0979408C811B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB500C0-E4C6-45A6-900F-9D081347544C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB500C0-E4C6-45A6-900F-9D081347544C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB500C0-E4C6-45A6-900F-9D081347544C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB500C0-E4C6-45A6-900F-9D081347544C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
