@@ -50,6 +50,22 @@
             "stopAtEntry": false
         },
         {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/dotnet/vscode-csharp/blob/main/debugger-launchjson.md
+            "name": "Launch DebugHandleExceptions",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_DebugHandleExceptions",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/DebugHandleExceptions/bin/Debug/net8.0/DebugHandleExceptions.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/DebugHandleExceptions",
+            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
